@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "Noto Kufi Arabic",
+  "textFontFamily": "Hurmit Nerd Font,GohuFont uni14 Nerd Font Propo,DejaVu Sans Mono",
+  "monospaceFontFamily": "",
+  "baseFontSize": 20,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "pdf_page_break_h_rule"
+  ],
+  "showRibbon": true
+}

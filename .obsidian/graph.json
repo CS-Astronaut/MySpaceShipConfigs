@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 15109183
+      }
+    },
+    {
+      "query": "tag:#DSA",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.58699421965318,
+  "lineSizeMultiplier": 1.58699421965318,
+  "collapse-forces": false,
+  "centerStrength": 0.897976878612717,
+  "repelStrength": 19.5722543352601,
+  "linkStrength": 1,
+  "linkDistance": 87,
+  "scale": 0.8199976083008506,
+  "close": true
+}

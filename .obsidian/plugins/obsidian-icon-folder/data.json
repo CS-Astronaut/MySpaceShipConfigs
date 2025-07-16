@@ -1,0 +1,56 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "⚕",
+      "LiUniversity",
+      "✏",
+      "📱",
+      "LiFolderSync"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Uni_Semesters/CS - Sem4": "LiUniversity",
+  "Linux": "🐧",
+  "Code": {
+    "iconName": "LiCode",
+    "iconColor": "#e08d1a"
+  },
+  "Uni_Semesters/CS - Sem5": "LiUniversity",
+  "Uni_Semesters": {
+    "iconName": "LiUniversity",
+    "iconColor": "#3734e5"
+  },
+  "Excalidraw/Drawing 2025-01-24 16.28.47.excalidraw.md": "LiBot",
+  "Excalidraw": {
+    "iconName": "LiExcalidrawIcon",
+    "iconColor": "#3617cf"
+  },
+  "Phone Sync": "📱",
+  "Presentations": "✏",
+  "Uni_Semesters/CS - Sem6": "LiUniversity"
+}

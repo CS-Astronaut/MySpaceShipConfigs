@@ -1,0 +1,479 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf5f49bfd169a62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7e5de192b30a8b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database-project-website.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "database-project-website"
+            }
+          },
+          {
+            "id": "e96a8fc93883fa04",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django Tutorial By Dave Grey.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Django Tutorial By Dave Grey"
+            }
+          },
+          {
+            "id": "228df10bfe7b2e19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML-study-guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ML-study-guide"
+            }
+          },
+          {
+            "id": "43c7a8c741fd51cd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparison of Wavelets for Medical Image Compression Using MATLAB.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Comparison of Wavelets for Medical Image Compression Using MATLAB"
+            }
+          },
+          {
+            "id": "d0a85bdf93b11770",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tri-mode_dual_level_3D_image_compression_over_MI.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tri-mode_dual_level_3D_image_compression_over_MI"
+            }
+          },
+          {
+            "id": "1ce6bb8be5291677",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comparison of Wavelets for Medical Image Compression-document.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comparison of Wavelets for Medical Image Compression-document"
+            }
+          },
+          {
+            "id": "75326e1cb93b2eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tri-mode_dual_level_3-D_image_compression_over_med-documentation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tri-mode_dual_level_3-D_image_compression_over_med-documentation"
+            }
+          },
+          {
+            "id": "9f26afec19f2a61f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MIC-Paper-Characteristics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MIC-Paper-Characteristics"
+            }
+          },
+          {
+            "id": "fae7810805466d94",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Transform-Based-Image-Processing.canvas",
+                "viewState": {
+                  "x": -2129.7027535424772,
+                  "y": -3270.918424264848,
+                  "zoom": -0.8000000000000002
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Transform-Based-Image-Processing"
+            }
+          },
+          {
+            "id": "035fa891a8b9a95e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Medical Image Compression/Tri-mode_dual_level_3-D_image_compression_over_med.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tri-mode_dual_level_3-D_image_compression_over_med"
+            }
+          },
+          {
+            "id": "390e8d4b47095c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phone Sync/daily/2025/07-July/20250716.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250716"
+            }
+          },
+          {
+            "id": "a0a255b3c411493a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phone Sync/daily/2025/07-July/20250715.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250715"
+            }
+          },
+          {
+            "id": "8f5d5c5af66264e3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Medical Image Compression/Comparison of Wavelets for Medical Image Compression.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Comparison of Wavelets for Medical Image Compression"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16f61ad358b1d22a",
+    "type": "split",
+    "children": [
+      {
+        "id": "38bc1acaf48182ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b7d78d59d70fa3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad32b1f2574624ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a15babab0f0f283b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8453f757bcd5ae80",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "c69a45f2919e2f5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d7f190e190e266e",
+        "type": "tabs",
+        "dimension": 44.21134421134421,
+        "children": [
+          {
+            "id": "4efbff357219b67f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-14 20.07.36.excalidraw.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2025-07-14 20.07.36.excalidraw"
+            }
+          },
+          {
+            "id": "ed8276be135e61f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Django Tutorial By Dave Grey.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Django Tutorial By Dave Grey"
+            }
+          },
+          {
+            "id": "1164445e0bf5498e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Django Tutorial By Dave Grey.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Django Tutorial By Dave Grey"
+            }
+          },
+          {
+            "id": "eb7c29e7a09cb419",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c2bc6d80aba73f85",
+        "type": "tabs",
+        "dimension": 55.78865578865578,
+        "children": [
+          {
+            "id": "64a99e0e10710938",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "bb464486fe4132a6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-07-14 20.07.36.excalidraw.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.909248554913295,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Drawing 2025-07-14 20.07.36.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "3d-graph:3D Graph": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "iconic:Open rulebook": false
+    }
+  },
+  "active": "c7b7d78d59d70fa3",
+  "lastOpenFiles": [
+    "Phone Sync/daily/2025/07-July/20250715.md",
+    "Phone Sync/daily/2025/07-July/20250716.md",
+    "Transform-Based-Image-Processing.canvas",
+    "Phone Sync/daily/2025/07-July/20250714.md",
+    "Excalidraw/Drawing 2025-07-14 20.07.36.excalidraw.md",
+    "images/Pasted Image 20250714204641_230.png",
+    "images/Pasted Image 20250714200938_032.png",
+    "images/Pasted Image 20250714200739_877.png",
+    "DWT.md",
+    "Medical Image Compression/Tri-mode_dual_level_3-D_image_compression_over_med.pdf",
+    "images/Pasted image 20250713004038.png",
+    "Excalidraw/Drawing 2025-07-14 18.59.05.excalidraw.md",
+    "images/Pasted Image 20250714192742_379.png",
+    "Medical Image Compression/Comparison of Wavelets for Medical Image Compression.pdf",
+    "Comparison of Wavelets for Medical Image Compression Using MATLAB.md",
+    "MIC-Paper-Characteristics.md",
+    "Comparison of Wavelets for Medical Image Compression-document.md",
+    "Tri-mode_dual_level_3-D_image_compression_over_med-documentation.md",
+    "Medical Image Compression/extracted.pdf",
+    "Tri-mode_dual_level_3D_image_compression_over_MI.md",
+    "Tri-mode_dual_level_3-D_image_compression_over_med-Characteristics.md",
+    "Medical Image Compression.md",
+    "Hints for Preparing Documents On Papers.md",
+    "Comparison of Wavelets for Medical Image Compression-characteristics.md",
+    "Phone Sync/daily/2025/07-July/20250713.md",
+    "@CS.md",
+    "Transform-Based-Image-Processing.md",
+    "Joseph Fourier.md",
+    "Semantic redundancy-aware implicit neural compression.canvas",
+    "images/Time&FrequencyDomain1.png",
+    "images/SINCS-pipeline.png",
+    "Semantic redundancy-aware implicit neural compression.md",
+    "database-project-website.md",
+    "Image Processing.md",
+    "Computer Vision.md",
+    "images/Pasted image 20250713203251.png",
+    "images/Time&FrequencyDomain0.png",
+    "pixel domain to frequency domain.md",
+    "images/Time&FrequencyDomain2.png",
+    "Phone Sync/daily/2025/07-July",
+    "Phone Sync/daily/2025",
+    "Phone Sync/daily",
+    "terminal.md",
+    "MIC-paper0.md",
+    "Medical Image Compression/8.pdf",
+    "Medical Image Compression/IJETA-V4I2P11.pdf",
+    "Uni_Semesters/CS - Sem6/term 6.canvas",
+    "git_cheat_sheet.canvas.canvas",
+    "medical_image_project_chalenges.canvas",
+    "Medical Image Compression using DL.canvas",
+    "SINCS - Presentation.canvas",
+    "Medical Image Compression/s42003-024-06788-0.pdf",
+    "Uni_Semesters/CS - Sem6/medical image compression/Deep learning-assisted medical image compression challenges.pdf",
+    "medical_image_project_chalenges 1.canvas",
+    "term6 endings - war paused.canvas",
+    "between terms - term.canvas"
+  ]
+}

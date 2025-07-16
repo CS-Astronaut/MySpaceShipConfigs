@@ -1,0 +1,6 @@
+{
+  "folder": "Phone Sync/daily/",
+  "template": "Phone Sync/templates/Daily Note Template",
+  "autorun": true,
+  "format": "YYYY/MM-MMMM/YYYYMMDD"
+}

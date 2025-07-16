@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "6bb3f4c5b8d473f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4b818cbf34f8b46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3127b7825c9350e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2024-04-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61a7fedb44ce777d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2024-05-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d564be262185b51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 Daily Notes/2024-05-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af3cfaff2cd66a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "999 templates/daily note template for this week (even).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0889e7529ba251a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reincarnation Program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b939282dba34fc9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0c9f7ce3fda16842",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f6fbafc67f89dc1b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a67bb2cc235e701d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1b3e2580f4af3656",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "482125cc0d1eb0f7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9a4d44b0d32a0851",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "999 Daily Notes/2024-04-30.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b3fcf032b155e5d4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "999 Daily Notes/2024-04-30.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0a55c68b52dd1fd7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "999 Daily Notes/2024-04-30.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c9f7ce3fda16842",
+  "lastOpenFiles": [
+    "Quick Notes/BIOS.md",
+    "Computer-Basics.md",
+    "Untitled.md",
+    "TOC (Theory of Computation).md",
+    "Reincarnation Program.md",
+    "Principals of Computer Design.md",
+    "Matrix.md",
+    "Data Structure & Algorithms.md",
+    "Untitled 1.md",
+    "999 Daily Notes/2024-05-04.md",
+    "999 templates/daily note template for this week (even).md",
+    "999 Daily Notes/2024-05-08.md",
+    "999 Daily Notes/2024-05-07.md",
+    "999 Daily Notes/2024-04-26.md",
+    "999 Daily Notes/2024-05-06.md",
+    "999 Daily Notes/2024-04-29.md",
+    "999 Daily Notes/2024-04-30.md",
+    "999 Daily Notes/2024-05-05.md",
+    "999 Daily Notes/2024-04-27.md",
+    "998 Uni Notes/Untitled.md",
+    "999 templates/youtube note template.md",
+    "999 templates/CS note template.md",
+    "999 templates/CS note template.md.2024-04-27_02.06.08.foldersync.old",
+    "999 Daily Notes/2024-04-27.md.2024-04-27_02.06.07.foldersync.old",
+    "998 Uni Notes",
+    "999 Daily Notes/2024-04-26 (DESKTOP-57R4FNT's conflicted copy 2024-04-27).md",
+    "999 Daily Notes/2024-04-26.md.2024-04-27_01.12.05.foldersync.old",
+    "2024-04-27.md",
+    "999 Daily Notes/2024-04-26.md.2024-04-27_01.06.53.foldersync.old",
+    "Data Structure & Algorithms/Data Structure - Module 1.md"
+  ]
+}

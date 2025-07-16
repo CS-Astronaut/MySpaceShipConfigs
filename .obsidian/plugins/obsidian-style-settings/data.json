@@ -1,0 +1,19 @@
+{
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
+  "anuppuccin-theme-settings@@anp-cursor": "pointer",
+  "anuppuccin-theme-settings@@anp-hide-status-bar": false,
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-mini-tab-toggle",
+  "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false,
+  "anuppuccin-theme-settings@@anp-depth-tab-opacity": 0.8,
+  "anuppuccin-theme-settings@@anp-safari-tab-radius": 5,
+  "anuppuccin-theme-settings@@anp-safari-tab-gap": 5,
+  "anuppuccin-theme-settings@@anp-safari-border-width": 1,
+  "anuppuccin-theme-settings@@anp-safari-tab-animated": false,
+  "anuppuccin-theme-settings@@anp-depth-tab-gap": 7,
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-peach",
+  "anuppuccin-theme-settings@@anp-border-radius": 10,
+  "anuppuccin-theme-settings@@anp-border-padding": 0
+}
