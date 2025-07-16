@@ -1,0 +1,45 @@
+[General]
+confirmLogout=false
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=hiddify
+count=1
+
+[Session: saved at previous logout]
+clientId1=101f619315f166000172492936300000010790007
+clientId2=101f619315f166000172493141100000010790023
+clientId3=101f619315f166000172493188400000010790031
+clientId4=101f619315f166000172493384100000010790044
+clientId5=101f619315f166000172493390700000010790045
+count=5
+discardCommand2[$e]=rm,$HOME/.config/session/konsole_101f619315f166000172493141100000010790023_1724969437_491381
+discardCommand3[$e]=rm,$HOME/.config/session/dolphin_101f619315f166000172493188400000010790031_1724969437_491683
+discardCommand4[$e]=rm,$HOME/.config/session/dolphin_101f619315f166000172493384100000010790044_1724969437_491562
+program1=/usr/bin/firewall-applet
+program2=/usr/bin/konsole
+program3=/usr/bin/dolphin
+program4=/usr/bin/dolphin
+program5=firefox
+restartCommand1=/usr/bin/firewall-applet,-session,101f619315f166000172492936300000010790007_1724969437_491763,-name,firewall-applet
+restartCommand2=/usr/bin/konsole,-session,101f619315f166000172493141100000010790023_1724969437_491381
+restartCommand3=/usr/bin/dolphin,-session,101f619315f166000172493188400000010790031_1724969437_491683
+restartCommand4=/usr/bin/dolphin,-session,101f619315f166000172493384100000010790044_1724969437_491562
+restartCommand5=/usr/lib/firefox/firefox,--sm-client-id,101f619315f166000172493390700000010790045
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=amin
+userId2=amin
+userId3=amin
+userId4=amin
+userId5=amin
+
+[SubSession: 02ca5e8a-2a9b-4b7b-9dcf-c05e592d711a]
+count=0
+
+[SubSession: 03d51841-97c4-467c-8ee4-88a0356407da]
+count=0

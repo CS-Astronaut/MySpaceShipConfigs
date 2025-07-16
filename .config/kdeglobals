@@ -1,0 +1,163 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=80,66,118
+BackgroundNormal=68,68,68
+DecorationFocus=86,66,140
+DecorationHover=86,66,140
+ForegroundActive=86,66,140
+ForegroundInactive=189,195,199
+ForegroundLink=194,189,215
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=250,250,250
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=66,66,66
+BackgroundNormal=51,51,51
+DecorationFocus=86,66,140
+DecorationHover=86,66,140
+ForegroundActive=86,66,140
+ForegroundInactive=136,136,136
+ForegroundLink=194,189,215
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=222,222,222
+ForegroundPositive=17,209,22
+ForegroundVisited=49,91,239
+
+[Colors:Selection]
+BackgroundAlternate=66,52,104
+BackgroundNormal=66,52,104
+DecorationFocus=86,66,140
+DecorationHover=86,66,140
+ForegroundActive=86,66,140
+ForegroundInactive=255,255,255
+ForegroundLink=194,189,215
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=255,255,255
+ForegroundPositive=39,174,96
+ForegroundVisited=128,152,239
+
+[Colors:Tooltip]
+BackgroundAlternate=77,77,77
+BackgroundNormal=50,50,50
+DecorationFocus=86,66,140
+DecorationHover=86,66,140
+ForegroundActive=86,66,140
+ForegroundInactive=189,195,199
+ForegroundLink=194,189,215
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate=50,50,50
+BackgroundNormal=20,20,20
+DecorationFocus=86,66,140
+DecorationHover=86,66,140
+ForegroundActive=86,66,140
+ForegroundInactive=255,255,255
+ForegroundLink=194,189,215
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=234,234,234
+ForegroundPositive=39,174,96
+ForegroundVisited=120,120,120
+
+[Colors:Window]
+BackgroundAlternate=66,66,66
+BackgroundNormal=30,30,30
+DecorationFocus=86,66,140
+DecorationHover=86,66,140
+ForegroundActive=86,66,140
+ForegroundInactive=136,136,136
+ForegroundLink=194,189,215
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=222,222,222
+ForegroundPositive=39,174,96
+ForegroundVisited=250,250,250
+
+[DirSelect Dialog]
+DirSelectDialog Size=1707,900
+History Items[$e]=file:$HOME/Dev/Programming/MySpaceShipConfigs,file:$HOME/Dev/Programming/After 2024/Transform-Based-Image-Processing,file:$HOME/Dev/Play Ground/taskbot,file:$HOME/Dev/Programming/After 2024/stronghold-dollar.rn,file:$HOME/Dev/Programming/After 2024/stronghold-dollar/jjj,file:$HOME/Dev/Programming/After 2024/stronghold-dollar,file:$HOME/Dev/Programming/After 2024/stronghold-dollar/jjj,file:$HOME/Dev/Programming/After 2024/stronghold-dollar,file:$HOME/Dev/Programming/After 2024/stronghold-dollar,file:$HOME/Dev/Programming/After 2024/Scrapping,file:$HOME/Dev/Programming/After 2024/Online_Shop_fork/Online-Shop,file:$HOME/Dev/Programming/After 2024/stronghold-dollar/jjj,file:$HOME/Dev/Programming/After 2024/Online_Shop_fork/Online-Shop,file:$HOME/Dev/Programming/After 2024/stronghold-dollar,file:$HOME/Dev/Programming/After 2024/Scrapping,file:$HOME/Dev/Programming/After 2024/stronghold-dollar,file:$HOME/Dev/Programming/After 2024/Scrapping,file:$HOME/Dev/Play Ground/CI,file:$HOME/Dev/Play Ground/Food-Bounty,file:$HOME/Dev/Play Ground/Food-Bounty,file:$HOME/Dev/Play Ground/CI/ACO,file:$HOME/Dev/Play Ground/CI/ACO,file:$HOME/Dev/Programming/After 2024/stronghold-dollar,file:$HOME/Dev/Play Ground,file:$HOME/Dev/Play Ground/Stronghold-USD,file:$HOME/Dev/Play Ground/Food-Bounty,file:$HOME/Dev/Programming/After 2024/Scrapping,file:$HOME/Dev/Programming/After 2024/stronghold-dollar,file:$HOME/Dev/Programming/After 2024/Scrapping,file:$HOME/Dev/Play Ground/CI/Particle Swarm Optimization (PSO),file:$HOME/Dev/Play Ground/CI/Meta-Heuristic-Algos,file:$HOME/Dev/Play Ground/CI/Particle Swarm Optimization (PSO),file:$HOME/Dev/Programming/After 2024/Scrapping,file:$HOME/Dev/Play Ground/CI/Meta-Heuristic-Algos,file:$HOME/Dev/Play Ground/TOC/regex_to_dfa,file:$HOME/Dev/Programming/After 2024/Scrapping,file:$HOME/Dev/Play Ground/Food-Bounty,file:$HOME/Dev/Play Ground/CI/ACO/dev/AntSimulator,file:$HOME/Documents,file:$HOME/Dev/Programming/After 2024/semantic scholar,file:$HOME/Dev/Programming/After 2024/Scrapping,file:$HOME/Dev/Play Ground/TOC/regex_to_dfa,file:$HOME/Dev/Play Ground/TOC/simulator/RegexCalc,file:$HOME/Dev/Play Ground/TOC/simulator,file:$HOME/Pictures/Backgrounds/art,file:$HOME/Pictures/Backgrounds/Colorfull,file:$HOME/Pictures/Backgrounds/2,file:$HOME/Pictures/Backgrounds/1,file:$HOME/Pictures/Backgrounds,file:$HOME/Dev/Play Ground/CI/ACO/dev/AntSimulator
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x03\x9b\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+AccentColor=86,66,140
+BrowserApplication=chromium.desktop
+ColorSchemeHash=892aa5073e43f7fb591a730fb5934f8f32007378
+LastUsedCustomAccentColor=86,66,140
+
+[Icons]
+Theme=Papirus
+
+[KDE]
+LookAndFeelPackage=Sweet-Ambar-Blue
+ShowDeleteCommand=false
+widgetStyle=Breeze
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=false
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=true
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Date
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=Simple
+
+[KScreen]
+ScaleFactor=1.125
+ScreenScaleFactors=eDP-1=1.125;DP-1=1.125;HDMI-1=1.125;DP-2=1.125;DP-3=1.125;
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[PreviewSettings]
+EnableRemoteFolderThumbnail=false
+MaximumRemoteSize=0
+
+[WM]
+activeBackground=51,51,51
+activeBlend=171,171,171
+activeForeground=222,222,222
+inactiveBackground=66,66,66
+inactiveBlend=234,234,234
+inactiveForeground=234,234,234

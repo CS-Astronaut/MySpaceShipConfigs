@@ -1,0 +1,13 @@
+[781603ce-482e-4a13-bc84-6ab9674e87d9]
+Description=moving firefox to middle
+desktops=7bcd7d9a-dbf8-4b22-b228-34b6035f6ec4
+desktopsrule=3
+wmclass=firefox
+wmclassmatch=2
+
+[General]
+count=1
+rules=781603ce-482e-4a13-bc84-6ab9674e87d9
+
+[ccce512a-9ea3-4e00-9c80-51a91d6409f4]
+desktopsrule=3

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Office;
+Comment=Obsidian
+Exec=/usr/bin/obsidian --no-sandbox %U
+Icon=obsidian
+MimeType=x-scheme-handler/obsidian;
+Name=Obsidian
+StartupWMClass=obsidian
+Terminal=false
+Type=Application
+X-AppImage-Version=1.6.7

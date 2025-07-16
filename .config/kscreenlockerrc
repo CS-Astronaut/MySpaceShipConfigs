@@ -1,0 +1,7 @@
+[Daemon]
+Autolock=false
+Timeout=0
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=/home/amin/Pictures/wallpaper/second-collection/waves/dracula-waves-44475a.png
+PreviewImage=/home/amin/Pictures/wallpaper/second-collection/waves/dracula-waves-44475a.png

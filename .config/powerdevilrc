@@ -1,0 +1,17 @@
+[AC][SuspendAndShutdown]
+AutoSuspendAction=0
+
+[Activities][02ca5e8a-2a9b-4b7b-9dcf-c05e592d711a]
+InhibitScreenManagement=false
+InhibitSuspend=false
+
+[Activities][03d51841-97c4-467c-8ee4-88a0356407da]
+InhibitScreenManagement=true
+InhibitSuspend=true
+
+[Activities][76f0255c-a878-4e1f-9027-788373dee03a]
+InhibitScreenManagement=false
+InhibitSuspend=false
+
+[Battery][SuspendAndShutdown]
+AutoSuspendAction=0
