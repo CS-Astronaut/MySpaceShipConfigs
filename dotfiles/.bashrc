@@ -16,11 +16,6 @@ alias xclip='xclip -selection clipboard <'
 
 alias pipes='pipes.sh -t 1 -C'
 
-# # an exprimental bash script to improve cp mv and rm commands by adding status bar
-# alias cp='~/file-transfer.sh cp'
-# alias mv='~/file-transfer.sh mv'
-# alias rm='~/file-transfer.sh rm'
-
 
 alias hdd='cd /mnt/hdd/'
 
@@ -57,7 +52,7 @@ alias venv=activate_env
 export PATH="$PATH:/home/amin/.lmstudio/bin"
 
 alias dev="cd ~/Dev/Play\ Ground/"
-
+alias devdev="cd ~/Dev/Programming/After\ 2024/"
 alias md="ghostwriter"
 
 # for pyenv
@@ -72,3 +67,8 @@ alias gitlog='git log --graph --oneline --all'
 /home/amin/shellScripts/mouse_key_remap.sh
 
 alias keymap='/home/amin/shellScripts/mouse_key_remap.sh'
+alias listpac='expac -H M "%-30n %m" | sort -k2 -h'
+alias clean_cache='rm -rf ~/.cache/* ~/.cache/.* 2>/dev/null && sudo pacman -Scc'
+alias lzfmpg='/home/amin/Dev/Programming/After\ 2024/Lazy-FFMPEG/lzfmpg.sh'
+alias astroterm='astroterm --city Arāk -m -C -c -t 200 '
+
